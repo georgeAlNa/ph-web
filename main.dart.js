@@ -86250,7 +86250,7 @@ $S:572}
 A.aAA.prototype={
 $0(){var s=$.aAS().YJ(t.kE),r=s.I0$
 r===$&&A.a()
-r.sGG("http://35.228.22.79:8000/api/v1")
+r.sGG("https://api.35.228.22.79.nip.io/api/v1")
 r.r=B.yw
 r.d=B.jm
 r.e=B.jm
